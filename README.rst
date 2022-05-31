@@ -1,5 +1,5 @@
 - python设计模式之模板方法  
-    + `视频地址<https://www.bilibili.com/video/BV1MA4y1Z7pG/>`
+    + 视频地址: https://www.bilibili.com/video/BV1MA4y1Z7pG/
 
 
 2. python基础之字符串函数(二)
