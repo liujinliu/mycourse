@@ -1,10 +1,11 @@
 # PYTHON课程目录  
-    * python设计模式之模板方法
-        * [视频地址](https://www.bilibili.com/video/BV1MA4y1Z7pG/)
-    * python基础之字符串函数(二)
-        * [视频地址](https://www.bilibili.com/video/BV1Ha411E71W/)
-    * python基础之字符串函数(一)
-        * [视频地址](https://www.bilibili.com/video/BV14t4y1x751/)
+
+    1. python设计模式之模板方法  
+	* [视频地址](https://www.bilibili.com/video/BV1MA4y1Z7pG/)
+    2. python基础之字符串函数(二)
+	* [视频地址](https://www.bilibili.com/video/BV1Ha411E71W/)
+    3. python基础之字符串函数(一)
+	* [视频地址](https://www.bilibili.com/video/BV14t4y1x751/)
     * 9分钟python讲解工厂模式
         * [视频地址](https://www.bilibili.com/video/BV1M34y1h7WB/)
     * python特殊方法(干预类的生成和访问)
