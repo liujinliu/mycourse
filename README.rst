@@ -1,5 +1,5 @@
 - python设计模式之模板方法  
-        + 视频: https://www.bilibili.com/video/BV1MA4y1Z7pG/
+    + 视频: https://www.bilibili.com/video/BV1MA4y1Z7pG/
     + 源码: https://github.com/liujinliu/mycourse/tree/master/python/template_mode
 - python基础之字符串函数(二)
     + 视频: https://www.bilibili.com/video/BV1Ha411E71W/
